@@ -1,4 +1,3 @@
-# Final-Project JCDS
 <h2>Bank Direct Marketing Effectiveness</h2>
 
 The data is related with direct marketing campaigns. 
